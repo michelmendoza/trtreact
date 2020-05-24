@@ -6,7 +6,7 @@ import React from 'react'
 //import FamiliaSilva from './componentes/FamiliaSilva'
 import Familia from './componentes/Familia'
 import Membro from './componentes/Membro'
-
+//
   const elemento = document.getElementById("root")
  
 
